@@ -1,6 +1,7 @@
 *.rbc
 capybara-*.html
 .rspec
+/coverage/*
 /log
 /tmp
 /db/*.sqlite3
